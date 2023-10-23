@@ -3,6 +3,7 @@
 - [ ] start/ends of story in mind
 - [ ] main stylesheet
 - [ ] images
+- [x] [hosting](https://felixg4.github.io/L2JS-hauntedHouse/)
 ### optional:
 - [ ] secret/hidden items/clues/links/images
 - [ ] keeping track of where user came from and their inventory
