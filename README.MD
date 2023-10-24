@@ -1,8 +1,10 @@
 # Haunted Mansion Choose-Your-Own Adventure Game
 ## Spec
 - [ ] start/ends of story in mind
-- [ ] main stylesheet
-- [ ] images
+- [ ] main stylesheet with display:grid and media queries
+- [ ] js event listeners
+- [ ] planning drafts, 2 mock designs  
+- [ ] images/drawings
 - [x] [hosting](https://felixg4.github.io/L2JS-hauntedHouse/)
 ### optional:
 - [ ] secret/hidden items/clues/links/images
