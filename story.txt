@@ -1,0 +1,8 @@
+you and your friend are playing catch, the ball lands in the backyard of the neighbor's house, you lose rock, paper, scissors with your friend so you have to get the ball.
+you jump the fence, but can't find the ball. Out of the corner of your eye, you see the ball rolling into the house. you decide to follow it in and the door shuts behind you.
+- include monsters and a flashlight
+- objective: find the ball
+- you encounter a man that gives you 5 clues as to how to get to the ball
+you have to choose between two halls
+- each hall gives access to half the rooms on each floor, till you reach the greenhouse, entering some rooms will lock you in unless you have a key
+- flashlight will be found in 1st floor bathrooms, will turn off after 15 uses, add collectible batteries
