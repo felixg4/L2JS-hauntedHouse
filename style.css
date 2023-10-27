@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 body {
     background-color: #38104B;
+    font-family: Creepster;
+    color: lightcoral;
+    min-height: 100vh;
+}
+h1 {
+    font-size: 7vmin;
+}
+a {
+    color: coral;
+}
+.centered {
+    text-align: center;
+}
+ul {
+    list-style: none;
+
+}
+footer {
+    margin-top:auto;
 }
