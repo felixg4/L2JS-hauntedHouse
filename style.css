@@ -2,11 +2,13 @@
 body {
     background-color: #38104B;
     font-family: Creepster;
+    font-size: 5vmin;
     color: lightcoral;
-    min-height: 100vh;
+    max-height: 100vh;
+    margin: 0px;
 }
 h1 {
-    font-size: 7vmin;
+    font-size: 10vmin;
 }
 a {
     color: coral;
@@ -16,8 +18,25 @@ a {
 }
 ul {
     list-style: none;
-
 }
 footer {
-    margin-top:auto;
+    margin-top: auto;
+}
+#hud-grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+#history-box {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#option-selector {
+
+}
+img {
+
+}
+#inventory-display {
+    
 }
