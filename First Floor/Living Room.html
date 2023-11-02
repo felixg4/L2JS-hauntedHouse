@@ -7,12 +7,20 @@
     <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-    <ul>
-        <li><a href="Bathroom X.html">Peek inside the bathroom</a></li>
-        <li><a href="Closet X.html">Peek inside the closet</a></li>
-        <li><a href="Dining Room.html">Go to the dining room</a></li>
-        <li><a href="Kitchen.html">See what's cooking</a></li>
-    </ul>
+    <div id="hud-grid">
+        <ul id="option-selector">
+            <li><a href="Bathroom X.html">Peek inside the bathroom</a></li>
+            <li><a href="Closet X.html">Peek inside the closet</a></li>
+            <li><a href="Dining Room.html">Go to the dining room</a></li>
+            <li><a href="Kitchen.html">See what's cooking</a></li>
+        </ul>
+        <span id="history-box">
+            you have opened the door and stepped in.
+            you are greeted by a scary witch.
+        </span>
+        <img src="../images/living room.png" id="scene" alt="spooky living room">
+        <span id="inventory-display"></span>
+    </div>
     <footer>
         <a href="../Beginning.html">return to start</a>
     </footer>

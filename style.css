@@ -25,6 +25,8 @@ footer {
 #hud-grid {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    width: 100vh;
+    height: 100vh;
 }
 #history-box {
     background-color: black;
@@ -34,8 +36,8 @@ footer {
 #option-selector {
 
 }
-img {
-
+img#scene {
+    height: 20vmin;
 }
 #inventory-display {
     
