@@ -25,13 +25,14 @@ footer {
 #hud-grid {
     display: grid;
     grid-template-columns: min-content 1fr;
-    grid-template-rows: 50% min-content;
+    grid-template-rows: min-content min-content;
     height: 90vmin;
 }
 #history-box {
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    padding: 5%
 }
 #option-selector {
     background-color: darkslategrey;
@@ -41,5 +42,5 @@ img#scene {
 }
 #inventory-display {
     background-color: darkslategray;
-    height: max-content;
+    height: 40%
 }
