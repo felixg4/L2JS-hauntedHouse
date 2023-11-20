@@ -210,7 +210,7 @@ if (!scene) {
 }
 scene.src = `../images/${sites[document.title].image}`
 
-let inventory = document.getElementById('inventory-display')=
+let inventory = document.getElementById('inventory-display')
 container.appendChild(optionContainer)
 container.appendChild(scene)=
 container.appendChild(histBox)
