@@ -212,7 +212,7 @@ scene.src = `../images/${sites[document.title].image}`
 
 let inventory = document.getElementById('inventory-display')
 container.appendChild(optionContainer)
-container.appendChild(scene)=
+container.appendChild(scene)
 container.appendChild(histBox)
 document.body.appendChild(container)
 if (document.querySelector('footer')) document.body.appendChild(document.querySelector('footer'))
