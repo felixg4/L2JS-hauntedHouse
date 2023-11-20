@@ -167,7 +167,7 @@ const sites = {
     //End
     "End":{
         options: [
-            'Play Again', '../Beginning.html'
+            'Play Again', '../index.html'
         ],
         image: "End.png",
         story:'You found the ball! You have achieved your goal, and you exit the mansion.'
@@ -190,7 +190,7 @@ if (optionContainer.childElementCount == 0) {
 }
 
 if (!document.cookie) document.cookie = 'hist='
-if (!window.location.toString().endsWith('Beginning.html')) {
+if (!window.location.toString().endsWith('index.html')) {
     if (document.title.length > 0 && !document.cookie.endsWith(document.title + "-")) document.cookie += `${document.title}-`
 }
 let histBox = document.getElementById('history-box')
